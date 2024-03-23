@@ -1,0 +1,23 @@
+road_network: 
+    - two lane road
+weather: sunny
+
+participant:
+    ego_vehicle:
+        current_behavior: go forward
+        position_relation: behind
+        position_target: road
+        speed: None
+    other_actor_1:
+        current_behavior: go forward
+        position_relation:  front
+        position_target: ego vehicle
+        speed: None
+        type: car
+    other_actor_2:
+        current_behavior: go forward
+        position_relation:  front
+        position_target: ego vehicle
+        speed: None
+        type: car
+traffic_signal: None

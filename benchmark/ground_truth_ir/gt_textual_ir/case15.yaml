@@ -1,0 +1,12 @@
+road_network: 
+    - intersection
+    - traffic light
+weather: sunny
+
+participant:
+    ego_vehicle:
+        current_behavior: stop
+        position_relation:  at
+        position_target: intersection
+        speed: None
+traffic_signal: red

@@ -1,0 +1,6 @@
+It is currently night time and the weather is clear.
+Our ego vehicle is driving on the second lane from the left on a three-lane road. 
+There is no pedestrian walking on the both side of the road
+There are two cars on the same line in front of the ego vehicle.
+There are two white on the right line of the ego vehicle.  
+The traffic signal for the direction of the ego vehicle is currently green.

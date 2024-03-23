@@ -1,0 +1,30 @@
+road_network: 
+    - intersection
+    - traffic light
+weather: rainy
+
+participant:
+    ego_vehicle:
+        current_behavior: go forward
+        position_relation:  at
+        position_target: intersection
+        speed: None
+    other_actor_1:
+        current_behavior: go forward
+        position_relation:  left
+        position_target: ego vehicle
+        speed: None
+        type: car
+    other_actor_2:
+        current_behavior: go forward
+        position_relation:  front
+        position_target: intersection
+        speed: None
+        type: pedestrian
+    other_actor_3:
+        current_behavior: go forward
+        position_relation:  front
+        position_target: intersection
+        speed: None
+        type: car
+traffic_signal: None

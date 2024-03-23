@@ -1,0 +1,3 @@
+It is currently daytime with partly cloudy skies and clear visibility.
+Our ego vehicle is at an intersection.
+The traffic signal for the direction of the ego vehicle is currently red.

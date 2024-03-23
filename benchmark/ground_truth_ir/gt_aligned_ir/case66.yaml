@@ -1,0 +1,41 @@
+road_network:
+  - intersection
+  - traffic light
+weather: sunny
+lane_num: 3
+participant:
+  ego_vehicle:
+    current_behavior: stop
+    lane_idx: 2
+    position_relation: at
+    position_target: intersection
+    speed: 0 mph
+  other_actor_1:
+    current_behavior: stop
+    lane_idx: 2
+    position_relation: front
+    position_target: ego vehicle
+    speed: None
+    type: pedestrian
+  other_actor_2:
+    current_behavior: stop
+    lane_idx: 2
+    position_relation: front
+    position_target: ego vehicle
+    speed: None
+    type: bicycle
+  other_actor_3:
+    current_behavior: stop
+    lane_idx: 2
+    position_relation: front
+    position_target: ego vehicle
+    speed: None
+    type: car
+  other_actor_4:
+    current_behavior: stop
+    lane_idx: 1
+    position_relation: left
+    position_target: ego vehicle
+    speed: None
+    type: car
+traffic_signal: green

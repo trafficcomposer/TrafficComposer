@@ -1,0 +1,4 @@
+It is currently daytime with partly cloudy skies and clear visibility.
+Our ego vehicle is driving on the third lane from the left on a four-lane road. 
+There is a bicycle approaching the ego vehicle in the opposite direction.
+There is a grey sedan on the right front of the ego vehicle.

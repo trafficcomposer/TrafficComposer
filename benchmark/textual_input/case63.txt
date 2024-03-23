@@ -1,0 +1,6 @@
+It is currently daytime and the weather is sunny.
+Our ego vehicle is driving on the third lane from the left on a five-lane road. 
+There are pedestrians crossing at the intersection directly ahead of it. 
+There is a black sedan on the right of the ego vehicle.
+There are cars driving in front of the ego vehicle in both left two lanes.  
+The traffic signal for the direction of the ego vehicle is currently green.

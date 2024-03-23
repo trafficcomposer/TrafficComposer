@@ -1,0 +1,24 @@
+road_network: 
+    - intersection
+    - traffic light
+weather: partially cloudy
+
+participant:
+    ego_vehicle:
+        current_behavior: go forward
+        position_relation: None
+        position_target: None
+        speed: None
+    other_actor_1:
+        current_behavior: go forward
+        position_relation:  front
+        position_target: ego vehicle
+        speed: None
+        type: car
+    other_actor_2:
+        current_behavior: crossing
+        position_relation:  right front
+        position_target: ego vehicle
+        speed: None
+        type: car
+traffic_signal: red

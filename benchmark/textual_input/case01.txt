@@ -1,0 +1,6 @@
+It is currently daytime and the weather is cloudy.
+Our ego vehicle is driving on the second lane from the left on a four-lane road. 
+There is no pedestrian walking on any side of the road
+There is one red cars on the right line in front of the ego vehicle.
+There is one black car is crossing.
+The traffic signal for the direction of the ego vehicle is currently red.

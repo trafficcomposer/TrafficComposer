@@ -1,0 +1,32 @@
+road_network: None
+weather: None
+lane_num: None
+participant:
+    ego_vehicle:
+        current_behavior: None
+        lane_idx: None
+        position_relation: None
+        position_target: None
+        speed: None
+    other_actor_1:
+        current_behavior: None
+        lane_idx: None
+        position_relation: None
+        position_target: None
+        speed: None
+        type: car
+    other_actor_2:
+        current_behavior: None
+        lane_idx: None
+        position_relation: None
+        position_target: None
+        speed: None
+        type: pedestrian
+    other_actor_3:
+        current_behavior: None
+        lane_idx: None
+        position_relation: None
+        position_target: None
+        speed: None
+        type: car
+traffic_signal: None

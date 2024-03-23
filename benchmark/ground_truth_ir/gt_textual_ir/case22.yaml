@@ -1,0 +1,10 @@
+road_network: None
+weather: sunny
+
+participant:
+    ego_vehicle:
+        current_behavior: go forward
+        position_relation: None
+        position_target: None
+        speed: None
+traffic_signal: None

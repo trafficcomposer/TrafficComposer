@@ -1,0 +1,34 @@
+road_network: intersection
+weather: partly cloudy
+
+participant:
+  ego_vehicle:
+    current_behavior: go forward
+    position_relation: front
+    position_target: intersection
+    speed: 30 mph
+  other_actor_1:
+    current_behavior: go forward
+    position_relation: front
+    position_target: intersection
+    speed: 45 mph
+    type: car
+  other_actor_2:
+    current_behavior: go forward
+    position_relation: front
+    position_target: intersection
+    speed: 35 mph
+    type: car
+  other_actor_3:
+    current_behavior: go forward
+    position_relation: front
+    position_target: intersection
+    speed: 35 mph
+    type: car
+  other_actor_4:
+    current_behavior: None
+    position_relation: front
+    position_target: ego_vehicle
+    speed: None
+    type: pedestrian
+traffic_signal: green

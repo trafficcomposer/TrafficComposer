@@ -1,0 +1,23 @@
+road_network:
+  - two lane road
+  - intersection
+weather: rainy
+participant:
+  ego_vehicle:
+    current_behavior: go forward
+    position_relation: behind
+    position_target: intersection
+    speed: None
+  other_actor_1:
+    current_behavior: go forward
+    position_relation: left
+    position_target: ego vehicle
+    speed: None
+    type: van
+  other_actor_2:
+    current_behavior: None
+    position_relation: front
+    position_target: intersection
+    speed: None
+    type: pedestrian
+traffic_signal: traffic light

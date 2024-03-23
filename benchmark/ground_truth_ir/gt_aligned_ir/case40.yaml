@@ -1,0 +1,27 @@
+road_network:
+  - intersection
+  - traffic light
+weather: foggy
+lane_num: 5
+participant:
+  ego_vehicle:
+    current_behavior: stop
+    lane_idx: None
+    position_relation: at
+    position_target: intersection
+    speed: None
+  other_actor_1:
+    current_behavior: go forward
+    lane_idx: None
+    position_relation: in
+    position_target: intersection
+    speed: None
+    type: car
+  other_actor_2:
+    current_behavior: go forward
+    lane_idx: None
+    position_relation: in
+    position_target: intersection
+    speed: None
+    type: pedestrian
+traffic_signal: green

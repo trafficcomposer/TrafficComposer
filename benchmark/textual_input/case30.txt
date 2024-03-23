@@ -1,0 +1,5 @@
+It is currently daytime with partly cloudy skies and clear visibility.
+Our ego vehicle is at an intersection.
+There is a bicycle in front of the ego vehicle.
+There is a sedan on the right of the ego vehicle turning left.
+The traffic signal for the direction of the ego vehicle is currently yellow.

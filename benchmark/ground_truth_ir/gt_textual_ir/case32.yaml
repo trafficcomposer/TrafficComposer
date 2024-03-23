@@ -1,0 +1,22 @@
+road_network: 
+weather: sunny
+
+participant:
+    ego_vehicle:
+        current_behavior: go forward
+        position_relation: None
+        position_target: None
+        speed: None
+    other_actor_1:
+        current_behavior: go forward
+        position_relation: opposite
+        position_target: ego vehicle
+        speed: None
+        type: tricycle
+    other_actor_2:
+        current_behavior: go forward
+        position_relation:  right front
+        position_target: ego vehicle
+        speed: None
+        type: car
+traffic_signal: None

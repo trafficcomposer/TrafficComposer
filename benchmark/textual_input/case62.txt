@@ -1,0 +1,6 @@
+It is currently daytime with partly cloudy skies and clear visibility.
+Our ego vehicle is at an intersection.
+There is one pedestrian in front of the ego vehicle.
+There is  a black sedan in front of the pedestrian.
+There is a bicycle and a sedan on the right of the ego vehicle.
+The traffic signal for the direction of the ego vehicle is currently green.

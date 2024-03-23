@@ -1,0 +1,27 @@
+road_network:
+  - intersection
+  - traffic light
+weather: sunny
+lane_num: None
+participant:
+  ego_vehicle:
+    current_behavior: yield
+    lane_idx: None
+    position_relation: at
+    position_target: intersection
+    speed: None
+  other_actor_1:
+    current_behavior: go forward
+    lane_idx: None
+    position_relation: left front
+    position_target: intersection
+    speed: None
+    type: bicycle
+  other_actor_2:
+    current_behavior: turn left
+    lane_idx: None
+    position_relation: right front
+    position_target: intersection
+    speed: None
+    type: car
+traffic_signal: yellow

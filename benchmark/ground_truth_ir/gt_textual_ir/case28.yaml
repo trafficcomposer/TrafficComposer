@@ -1,0 +1,18 @@
+road_network:
+  - intersection
+  - traffic light
+weather: sunny
+
+participant:
+  ego_vehicle:
+    current_behavior: stop
+    position_relation:  at
+    position_target: intersection
+    speed: None
+  other_actor_1:
+    current_behavior: None
+    position_relation: front
+    position_target: ego vehicle
+    speed: None
+    type: pedestrian
+traffic_signal: red

@@ -1,0 +1,11 @@
+road_network: None
+weather: sunny
+lane_num: 2
+participant:
+    ego_vehicle:
+        current_behavior: go forward
+        lane_idx: 2
+        position_relation: None
+        position_target: None
+        speed: None
+traffic_signal: None

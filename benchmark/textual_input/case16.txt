@@ -1,0 +1,4 @@
+It is currently daytime. It is snowy but with clear visibility.
+Our ego vehicle is at an intersection.
+There are vehicles and pedestrians currently passing through ahead.
+The traffic signal for the direction of the ego vehicle is currently green.

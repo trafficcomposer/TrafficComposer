@@ -1,0 +1,6 @@
+[submodule "fuzzing/trafficcomposer_lawbreaker/LawBreaker-SourceCode"]
+	path = fuzzing/trafficcomposer_lawbreaker/LawBreaker-SourceCode
+	url = https://github.com/lawbreaker2022/LawBreaker-SourceCode/
+[submodule "gen_traffic_ir/gen_visual_ir/clrnet"]
+	path = gen_traffic_ir/gen_visual_ir/clrnet
+	url = https://github.com/Turoad/CLRNet/

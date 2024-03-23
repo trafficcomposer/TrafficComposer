@@ -1,0 +1,48 @@
+road_network: 
+    - five lane road
+    - traffic light
+weather: night
+lane_num: 3
+participant:
+    ego_vehicle:
+        current_behavior: go forward
+        lane_idx: 2
+        position_relation: None
+        position_target: None
+        speed: None
+    other_actor_1:
+        current_behavior: go forward
+        lane_idx: 2
+        position_relation: front
+        position_target: ego vehicle
+        speed: None
+        type: car
+    other_actor_2:
+        current_behavior: go forward
+        lane_idx: 1
+        position_relation: left
+        position_target: ego vehicle
+        speed: None
+        type: car
+    other_actor_3:
+        current_behavior: go forward
+        lane_idx: 1
+        position_relation: left front
+        position_target: ego vehicle
+        speed: None
+        type: car
+    other_actor_4:
+        current_behavior: go forward
+        lane_idx: 1
+        position_relation: left front
+        position_target: ego vehicle
+        speed: None
+        type: car
+    other_actor_5:
+        current_behavior: go forward
+        lane_idx: 3
+        position_relation: right front
+        position_target: ego vehicle
+        speed: None
+        type: car   
+traffic_signal: green

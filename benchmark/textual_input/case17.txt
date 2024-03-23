@@ -1,0 +1,3 @@
+It is currently daytime with partly cloudy skies and clear visibility.
+Our ego vehicle is driving on the second lane from the left on a two-lane road. 
+There are some vehicles far head of the ego vehicles.
